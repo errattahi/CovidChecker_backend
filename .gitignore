@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+env2/
+env3/
+
+# Build output
+dist/
+build/
+*.egg-info/
+
+# Database files
+*.db
+
+# Compiled Python files
+*.pyc
+
+# Docker
+docker-compose.yml
+.dockerignore
