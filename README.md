@@ -52,4 +52,4 @@ This project was developed by ENSAJ Team.
 
 ## License
 
-This project is licensed under the MTI.
+This project is licensed under the MIT license.
