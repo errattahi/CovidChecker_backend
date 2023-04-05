@@ -47,9 +47,9 @@ The web frontend is built using jQuery Ajax to communicate with the Flask backen
 
 ## Credits
 
-This project was developed by [insert names here].
+This project was developed by ENSAJ Team.
 
 
 ## License
 
-This project is licensed under the [insert license here].
+This project is licensed under the MTI.
